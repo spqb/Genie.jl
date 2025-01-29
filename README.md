@@ -22,7 +22,7 @@ To install the Genie package directly from its Git repository, follow these step
 Open a terminal and run the following command to clone the Genie repository:
 
 ```bash
-git clone https://github.com/leonardodibari/Genie.jl.git
+git clone https://github.com/spqb/Genie.jl.git
 ```
 
 # Running the Genie Package: Using the Example Notebook or Julia REPL
