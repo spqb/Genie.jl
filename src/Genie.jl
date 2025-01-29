@@ -11,7 +11,7 @@ using JLD2
 using StatsBase
 using DCAUtils
 using MultivariateStats
-using DensityPlot
+
 using GZip
 using Distributions
 using TreeTools
